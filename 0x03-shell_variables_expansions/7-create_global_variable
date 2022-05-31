@@ -1,2 +1,2 @@
 #!/bin/bash
-export alx="Betty"
+export BEST="School"
