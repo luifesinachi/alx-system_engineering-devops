@@ -1,4 +1,5 @@
- script that installs and redirects /redirect_me on nginx server
+#!/usr/bin/env bash
+# a script that installs and redirects /redirect_me on nginx server
 
 sudo apt-get -y update
 sudo apt-get -y install nginx
